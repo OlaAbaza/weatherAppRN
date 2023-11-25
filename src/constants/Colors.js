@@ -1,0 +1,15 @@
+export default {
+  BASIC_BACKGROUND: "#F5F7FA",
+  ACTIVE: "#057DFE",
+  HEART: "#F13939",
+  WHITE: "#FFFFFF",
+  YELLOW: "#FFC107",
+  BLUE: "#0c76f0",
+  BLACK: "#000000",
+  GRAY: "#7C7C7C",
+  LIGHT_GRAY: "#969696",
+  EXTRA_LIGHT_GRAY: "#E5E5E5",
+  LightGreen: "#26AE60",
+  DarkGreen: "#334614",
+  MintGreen: "#CBECA5",
+};
